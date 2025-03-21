@@ -1,6 +1,4 @@
-![](Images/cover_dhamma_everywhere%20copy.jpg)
-
-## DHAMMA EVERYWHERE: WELCOMING EACH MOMENT WITH AWARENESS+WISDOM
+# DHAMMA EVERYWHERE: WELCOMING EACH MOMENT WITH AWARENESS+WISDOM
 
 **ASHIN TEJANIYA**
 
@@ -30,7 +28,7 @@ PO 11022 Yangon, Myanmar\
 > [*the Perfectly Self-Enlightened One*]{style="font-style: normal;"}\
 > :::
 
-#### ACKNOWLEDGEMENTS
+# ACKNOWLEDGEMENTS
 
 My special gratitude goes to my teacher, the late Venerable Shwe Oo Min
 Sayadaw Bhaddanta Kosalla Mahā Thera, who taught me Dhamma and the right
@@ -45,7 +43,7 @@ completion of this book.
 
 Ashin Tejaniya
 
-#### DEAR READER
+# DEAR READER
 
 Ashin Tejaniya's style of teaching and emphasis has always been dynamic,
 evolving with his own experiences and recognition of yogis' difficulties
@@ -90,7 +88,7 @@ Köchli, the publishing teams, and anyone unintentionally left off here!
 
 Laura Zan, Translator & Compiler
 
-#### A NOTE ON WORDS
+# A NOTE ON WORDS
 
 We work within the limits of language and concepts to describe and give
 suggestions for a process of clear seeing that is at times difficult to
@@ -126,7 +124,7 @@ describing yogis' experiences (as well as the use of "we" or "you" in
 the explanations), we have given a fair chance to each of these
 concepts.
 
-### WHAT IS MINDFULNESS MEDITATION?
+# WHAT IS MINDFULNESS MEDITATION?
 
 Let's talk a little bit about meditation. At this center, we practice
 Satipatthāna or mindfulness meditation on the four foundations of
@@ -153,7 +151,7 @@ in the section What are objects?).
 > meditation is called "mind work" and that's why you need to know about
 > the mind.*
 
-#### How Do You Know That There Is A Mind?
+## How Do You Know That There Is A Mind?
 
 Do you know that you have a mind? How do you know that you have a mind?
 You can see or observe the mind through its workings/functions e.g.
@@ -179,7 +177,7 @@ and intentions are all workings of the mind. It's just not as easy at
 first to recognize the mind as it is other objects because of a lack of
 understanding of what the mind is.
 
-#### Persistence
+## Persistence
 
 What kind of effort do we need when we are meditating? Right now many
 people know of only one type of effort, which is energetic, forcing
@@ -203,7 +201,7 @@ We can't say we are practicing insight meditation (vipassanā) when we
 are just focusing or paying attention because vipassanā is the practice
 of learning about mind and body processes (nāma-rūpa).
 
-#### Who Is Meditating?
+## Who Is Meditating?
 
 You are not meditating; it is the ideas operating in the background (in
 the mind) that are meditating. If these underlying ideas are wrong, then
@@ -246,7 +244,7 @@ well as our intelligence and wisdom while practicing to recognize when
 there are defilements in the mind. We also need to appreciate this
 process of learning.
 
-#### What Are Objects?
+## What Are Objects?
 
 We often use the word "objects". What is the meaning of an **object**?
 An object is what we experience, what we observe, and something that is
@@ -320,7 +318,7 @@ better understand the relationship of how the state of mind and the
 thoughts in the mind affect the way you feel about the object or what
 you are observing.
 
-#### Start With Any Object
+## Start With Any Object
 
 Start with an awareness of any object. As you maintain awareness, keep
 checking the mind. What is the mind aware of? When it is aware, is the
@@ -343,7 +341,7 @@ Try to observe mind-object relationships like this. It is important to
 have an awareness of these kinds of causal relationships and connections
 in practice.
 
-#### Use Any Object To Develop Awareness
+## Use Any Object To Develop Awareness
 
 Which is better: Watching the breath or watching the abdomen? Neither is
 better than the other. They're the same! You should not prefer one over
@@ -366,7 +364,7 @@ The mind will grow in strength as you practice with ease and consistent
 awareness. Remember that the object is not important; the observing mind
 with the right attitude is more important.
 
-#### The Mind Has To Be Alert And Interested
+## The Mind Has To Be Alert And Interested
 
 Dhamma practice is mind work, which means the mind has to have
 awareness. It also has to be alert and interested in studying itself.
@@ -381,7 +379,7 @@ a natural momentum of awareness. Using a simile, we don't want the type
 of fire that burns in a flash. We want a long lasting fire from durable
 materials like wood or coal.
 
-#### What Is A Good Time For Meditation?
+## What Is A Good Time For Meditation?
 
 Many yogis have this idea that their meditation begins when they hear
 the bell. That's not so! The bell is there only to remind you. The right
@@ -398,7 +396,7 @@ cushion does not necessarily mean you are practicing. Some yogis sit and
 fall asleep while others sit and daydream away! Is this considered
 meditation?
 
-#### Waiting And Watching With Intelligence
+## Waiting And Watching With Intelligence
 
 > *In this practice, we don't focus, control, exert, restrict or
 > interfere. These actions are motivated by defilements like craving,
@@ -434,7 +432,7 @@ you are sitting, walking, eating, or doing daily activities. The mind
 can know what it wants, can't it? This "knowing naturally" is easier on
 you. Trying to find the object you want requires energy.
 
-#### Awareness Alone Is Not Enough
+## Awareness Alone Is Not Enough
 
 So far, we've talked about awareness and waiting and watching with
 intelligence.
@@ -471,7 +469,7 @@ apply these two kinds of wisdom (information and intelligence) to the
 practice of meditation. Insight wisdom arises when the right kinds of
 conditions come together.
 
-#### Thinking While Practicing
+## Thinking While Practicing
 
 So, should you think or not think while practicing? You should be
 watchful of the kinds of thoughts that will increase craving, aversion,
@@ -528,7 +526,7 @@ feeble and faith lacking. Meditation is the work of cultivating and
 strengthening the spiritual faculties of sati, samādhi, viriya, saddhā,
 and pāññā.
 
-#### Know Whatever Is Happening
+## Know Whatever Is Happening
 
 Understanding that something is not beneficial is very different from
 thinking or judging that something is "not good". If the mind labels
@@ -557,7 +555,7 @@ there is more aversion. Aversion is always negative, having the quality
 of pushing something away. We are observing aversion because we want to
 know its true nature. This is what it means to meditate.
 
-#### Study Everything That Happens
+## Study Everything That Happens
 
 If our goal is to have understanding, we need to get to know the nature
 of as many objects as possible, how the mind and body processes work,
@@ -586,7 +584,7 @@ investigative faculties needs to be present. So you now understand a
 little more about the difference between focusing versus waiting,
 watching, and observing with wisdom.
 
-#### Five Spiritual Faculties (Indriya)
+## Five Spiritual Faculties (Indriya)
 
 Awareness (sati), steadiness and stability of mind (samādhi), effort or
 wisdom' energy (viriya), faith and confidence (saddhā), and wisdom
@@ -594,7 +592,7 @@ wisdom' energy (viriya), faith and confidence (saddhā), and wisdom
 of meditation. Mindfulness meditation is the work of cultivating or
 growing these spiritual faculties to work in balance.
 
-#### Sati
+### Sati
 
 **Sati means not to forget. Sati means to remember.** What don't you
 forget? You don't forget what is right and wholesome. It also means not
@@ -658,7 +656,7 @@ you know about the nature of the mind. Ask these questions from the
 moment you wake up. If you are able to do this, can't you practice
 anywhere or anytime? I began my practice this way.
 
-#### Samādhi
+### Samādhi
 
 **Samādhi means a steady, stable mind; samādhi does not mean focusing.**
 Do we necessarily get concentration by concentrating? Do we get a calm
@@ -735,7 +733,7 @@ attraction to or aversion for an object. The mind is calm, peaceful, and
 still. The mind also feels light, alert, and fresh. This kind of samādhi
 is inherent in wisdom and gives opportunities for more wisdom to arise.
 
-#### Viriya
+### Viriya
 
 How do you understand viriya? **Viriya is the spiritual faculty of
 patience and perseverance.** I understand viriya as persistence, not
@@ -803,7 +801,7 @@ Is this work difficult or exhausting? No. Just don't forget. Keep
 checking yourself and how much effort you are putting in. You need to
 recognize these things for yourself.
 
-#### Saddhā
+### Saddhā
 
 **Saddhā is the spiritual faculty of faith and confidence.** You need to
 have confidence in your practice and you need to have faith in what you
@@ -857,7 +855,7 @@ don't know:
 - What kind of attitudes are present; or
 - The nature of the mind?
 
-#### Take Interest In Your Work
+### Take Interest In Your Work
 
 Take interest in the work you are doing. Many yogis encounter good and
 bad experiences in their practice. Sometimes they have good meditation
@@ -871,7 +869,7 @@ When you see the connection between what the mind does and what happens,
 then you will begin to understand the nature of cause and effect. With
 that, your confidence in the practice will grow even more.
 
-#### Paññā
+### Paññā
 
 **Paññā is wisdom. It is very important to have the right view when
 practicing.** It's only when some kind of wisdom is present that
@@ -945,7 +943,7 @@ Why are you practicing awareness? You want to know the truth, the
 reality of things; that is why you maintain awareness. Do not forget
 this purpose.
 
-#### Pain And Discomfort
+## Pain And Discomfort
 
 What do you do when you sit and feel pain, aches, or tiredness? How do
 you observe the pain? If you observe the pain directly, it gets worse!
@@ -972,7 +970,7 @@ to make objects disappear and it also doesn't matter whether they
 disappear or not. Why are you observing? You are observing because you
 want to know and you want to understand. Observe as much as you can.
 
-#### Sitting, Walking, And Daily Activities In Brief
+## Sitting, Walking, And Daily Activities In Brief
 
 Can you change your position when you are meditating? You can move when
 a certain posture becomes unbearable. If you need to adjust your
@@ -999,7 +997,7 @@ A yogi's work is to:
 - Have the right view, right attitude, and right thought, and
 - Be intelligently aware, moment-to-moment.
 
-#### Thoughts
+## Thoughts
 
 When you look at your thoughts, don't get swept away by the story. It is
 enough if you are aware that thoughts are happening. I don't advise
@@ -1011,7 +1009,7 @@ sensations, and alternate between the mind and the body.
 > *Don't let the mind be idle for long periods during the day---keep it
 > working! Be aware and remind yourself. Do that the whole time.*
 
-#### Why Do We Practice The Whole Time?
+## Why Do We Practice The Whole Time?
 
 Why are we asked to practice the whole time? It is because the mind is
 collecting data through moment-to-moment awareness. When the data is
@@ -1020,7 +1018,7 @@ consistently and continuously in the right way will momentum build and
 wisdom grow. You come to this center to practice as well as to learn how
 to be skillful so you may take this meditation home with you.
 
-### DHAMMA INVESTIGATION IN PRACTICE
+# DHAMMA INVESTIGATION IN PRACTICE
 
 Ashin Tejaniya often refers to dhamma investigation or investigation of
 phenomena (dhamma-vicaya) in his discussions. Dhamma-vicaya is the
@@ -1032,7 +1030,7 @@ four factors are effects: pīti, passaddhi, samādhi, and upekkhā. We
 can't create or make them happen. The following excerpt of a Dhamma
 discussion illustrates Ashin Tejaniya's dhamma-vicaya in practice.
 
-#### The Pendulum
+## The Pendulum
 
 I was sitting in meditation and listening to Sayadawgyi (the late Shwe
 Oo Min Sayadaw) giving a Dhamma discourse nearby. Suddenly, I saw this
@@ -1090,7 +1088,7 @@ talking if it liked something. But because of this previous realization
 and clear understanding, the mind was already reminding itself in this
 situation.
 
-#### Interest And Inquiry
+## Interest And Inquiry
 
 That's how you need to meditate, with interest and inquiry every time
 defilements arise. When you are ready, the lesson will come and you will
@@ -1103,7 +1101,7 @@ course, the mind would calm down eventually. Why? The mind can
 effectively calm down if it looks directly at something without being
 able to think about anything else. But no wisdom or understanding arose.
 
-#### Seven Factors Of Enlightenment
+## Seven Factors Of Enlightenment
 
 What we need here is dhamma-vicaya, one of the causes in the seven
 factors of enlightenment (bojjhaṅgas). The seven factors of
@@ -1126,7 +1124,7 @@ Dhamma-vicaya is a type of wisdom that falls under cintāmayā paññā. Th
 is needed here. We have to investigate with the desire to learn, to
 know, and to understand.
 
-#### The Role Of Awareness
+## The Role Of Awareness
 
 The role of awareness is just gathering data. In the incident, there was
 a wish to know. Awareness played the role of knowing everything that was
@@ -1154,7 +1152,7 @@ able to keep the steady mind in check for longer periods. If you can
 maintain that steadiness (which requires a presence of wisdom) and you
 ask a question, the answer will come.
 
-#### Don't Let Anger Grow
+## Don't Let Anger Grow
 
 You too can use different techniques as needed for the situation you are
 in. Suppose you are at work and there's just too much work going on.
@@ -1207,7 +1205,7 @@ becomes hot around him. So this person will make sure something like
 that won't happen again in the future. He won't let the anger out
 although the anger might want to come out.
 
-#### Moha Is Darkness
+## Moha Is Darkness
 
 If you have just a little awareness, how much will you benefit? Do you
 see how much more the mind is at ease? It's because you don't know just
@@ -1228,7 +1226,7 @@ it. You think, "Oh, I know a lot now." What about all that you haven't
 seen? It's vast. You only know what you have seen but you don't know
 what you don't know.
 
-#### Stir Things Up A Little
+## Stir Things Up A Little
 
 If you are able to observe this little wisdom as it is happening, then
 this wisdom will show the way. You don't realize what you don't yet
@@ -1258,7 +1256,7 @@ much of this when the mind was agitated because things would have just
 gotten jumbled up. You need to be putting these skills to use as
 awareness strengthens and there's stability in the mind.
 
-### RECAP: QUESTIONS FROM "WHAT IS MINDFULNESS MEDITATION?"
+# RECAP: QUESTIONS FROM "WHAT IS MINDFULNESS MEDITATION?"
 
 - With what kind of mind are you being aware?
 - How does the mind feel when you are aware of this object? -Are you
@@ -1285,9 +1283,9 @@ awareness strengthens and there's stability in the mind.
 - How are you meditating? Are you practicing the right way? How do you
   continue with the practice?
 
-### RIGHT ATTITUDE 101
+# RIGHT ATTITUDE 101
 
-#### What Is The Right Attitude For Meditation?
+## What Is The Right Attitude For Meditation?
 
 Please check your attitude before you begin sitting meditation. What
 kind of underlying ideas or attitudes are you meditating with? Do you
@@ -1325,7 +1323,7 @@ and has the quality of heedfulness and of not forgetting the right
 object (appamāda). It is sammā-sati when wisdom is inherent in the
 awareness.
 
-#### How Are We Observing?
+## How Are We Observing?
 
 There's no need to go around trying to find the object of choice. In
 this meditation, we pay attention to the working, meditating mind and to
@@ -1351,7 +1349,7 @@ the work of the mind. The mind knows all there is to be known. here's
 the more important question: Is the mind observing with wholesome or
 unwholesome mental qualities?
 
-#### Why Are We Being Mindful?
+## Why Are We Being Mindful?
 
 Why are we being mindful or aware? We practice because we want to
 understand. We wait, observe, and study what is happening in the mind
@@ -1368,7 +1366,7 @@ what is there as what is there, then there is escape from craving.
 However, when we don't know how to practice, the craving can only
 increase. We are meditating to be free of craving and clinging.
 
-#### Be Happy With The Awareness
+## Be Happy With The Awareness
 
 You will see that experiences are just happening according to their own
 nature when you wait and watch with awareness and intelligence. Let
@@ -1388,7 +1386,7 @@ many times you may want this thinking to stop because you consider it
 distracting. However, when you greedily try to make it still, it will
 only complicate the issue and bring about tension.
 
-#### Do All That Is Wholesome
+## Do All That Is Wholesome
 
 Anything wholesome or unwholesome begins in the mind. Why is there
 wholesomeness or unwholesomeness? These wholesome or unwholesome mental
@@ -1413,7 +1411,7 @@ not Enough** for more). It's just difficult when there is insufficient
 understanding and unwholesome mental qualities mixing in along with
 experiences.
 
-#### Awareness Gains Momentum
+## Awareness Gains Momentum
 
 You want to be relaxed. Is the meditating mind unbiased, open, and
 honest? When the mind doesn't want anything or is not dissatisfied with
@@ -1455,7 +1453,7 @@ entity, no person is behind this process. It is all nature.
 We meditate for ourselves. Please continue your Dhamma work with
 interest and respect.
 
-### MINDFULNESS MEDITATION ESSENTIALS
+# MINDFULNESS MEDITATION ESSENTIALS
 
 - The meditating mind is naturally relaxed, calm, and peaceful. Learn to
   not focus, control, create, constrict, or restrict.
@@ -1531,7 +1529,7 @@ interest and respect.
 - Maintain awareness in the present moment---don't revisit the past or
   speculate on the future.
 
-### FROM MOMENT TO MOMENTUM
+# FROM MOMENT TO MOMENTUM
 
 When people think of meditation, they imagine a yogi sitting with his
 eyes closed. The sitting posture alone doesn't mean the yogi is
@@ -1554,7 +1552,7 @@ isn't necessary to spend so much energy all at once.
 It is Dhamma only when we learn to meditate, are able to meditate, and
 continue to meditate.
 
-#### Any Object
+## Any Object
 
 Observe your body now. What do you observe when you are aware without
 pinpointing a specific place like the nostrils or abdomen? Know that you
@@ -1572,7 +1570,7 @@ such, it doesn't matter what object you begin with. Start with any of
 the six sense objects suitable for you. But remember that whatever you
 begin with, having awareness and wisdom is what's important.
 
-#### Check The Meditating Mind
+## Check The Meditating Mind
 
 When you put on red tinted glasses, everything you look at will be red.
 With blue tinted glasses, everything you look at will be blue. Observing
@@ -1591,7 +1589,7 @@ that is important.
 > *Only when the mind observes without lobha, dosa, or moha do objects
 > become dhamma objects.*
 
-#### Observing Naturally
+## Observing Naturally
 
 When does the mind feel tightness or tension? There is tension when the
 mind wants something other than what is happening or when the mind
@@ -1614,7 +1612,7 @@ anything. We just let the body do its job while we pay attention to the
 mind and are aware as much as we can be aware, consistently throughout
 the day.
 
-#### Sitting Meditation
+## Sitting Meditation
 
 What can you observe? You can observe whatever object that arises. If
 the mind's attention goes to the nostrils, you can observe that. If
@@ -1663,7 +1661,7 @@ moment. It's also ok to get up and walk if it is difficult to sit. Just
 remember to maintain awareness of what is happening in the mind and
 body.
 
-#### Walking Meditation
+## Walking Meditation
 
 Walking meditation is just like sitting meditation in that you are just
 aware of whatever is arising or happening. Let the body go in an easy,
@@ -1688,7 +1686,7 @@ feel while walking.
 It's good if you can be aware of the intention to stop or to move. It's
 even better if you can recognize why you continue walking.
 
-#### Eating Meditation
+## Eating Meditation
 
 Which one should be stronger: The desire to eat or the desire to
 practice?
@@ -1726,7 +1724,7 @@ Sometimes the mental desire to eat and the bodily sensation of hunger
 become interconnected. You just want to observe these things and
 everything that is happening as it is.
 
-#### Daily Activities
+## Daily Activities
 
 Meditation doesn't happen only in sitting. How do you get up from
 sitting meditation to go to your daily activities? Please get up and go
@@ -1789,7 +1787,7 @@ In the beginning, you may feel a little tired when you are learning how
 to practice skillfully. Once you know how to practice with the right
 attitude, both the mind and body will feel at peace.
 
-#### Pain
+## Pain
 
 It's greed at work if you immediately change your posture to alleviate a
 little discomfort! On the other hand, determining not to move at any
@@ -1851,7 +1849,7 @@ observe anything you want. This relaxed mind, when looking at what was
 considered "pain" before, will no longer consider it painful. When the
 mind begins to understand this, acceptance will naturally follow.
 
-#### Vedanā
+## Vedanā
 
 So long as there is a mind, there will be mental feeling and the
 presence of some kind of vedanā: Sukha vedanā, dukkha vedanā or uppekha
@@ -1885,7 +1883,7 @@ issue with this. It is only a problem when you take this feeling as
 "yours". So please recognize the underlying attitude that is present
 when this feeling arises. You practice because you want to understand.
 
-#### Anger Is Anger. It Is Just One Dhamma Nature
+## Anger Is Anger. It Is Just One Dhamma Nature
 
 Shwe Oo Min Sayadaw used to ask, "How big is your anger---as big as a
 fist or as big as a ball?" Is Chinese anger stronger than Indian anger?
@@ -1909,7 +1907,7 @@ not understanding the nature of the mind. It is difficult to practice
 without a thorough understanding of how to practice. When there's real
 understanding, everything works out well.
 
-#### Consistent Effort
+## Consistent Effort
 
 > *We want the type of awareness that develops naturally from consistent
 > effort, moment-to-moment.*
@@ -1932,7 +1930,7 @@ don't believe me. You'll experience happiness when you are able to see
 this for yourself. Where is this happiness coming from? This is
 happiness that arises from knowing.
 
-#### Awareness Gains Momentum
+## Awareness Gains Momentum
 
 When sati and samādhi are weak and defilements are very strong in the
 mind, you will not be able to see reality no matter how much you try.
@@ -1950,7 +1948,7 @@ As awareness gains strength, the mind will be aware of many more things
 and awareness develops a momentum of its own. You don't do the work of
 being aware of more and more objects.
 
-#### Value Of Awareness
+## Value Of Awareness
 
 When you begin meditating, the sati, samādhi, and paññā that were absent
 before are now present. Appreciate the presence of these wholesome
@@ -1964,7 +1962,7 @@ is dhamma nature and what is unwholesome is also dhamma nature.
 > *We practice to have the right attitude, to understand dhamma nature,
 > and to extinguish defilements.*
 
-### MORE QUESTIONS
+# MORE QUESTIONS
 
 What is your attitude? Is it right or wrong? - Are you interested in the
 present moment? - Do you want anything? - Is the mind relaxed? - How
@@ -1989,7 +1987,7 @@ Is there defilement present?
 What does the mind know? What is the mind doing? What ideas do you have
 about your practice?
 
-### IN A NUTSHELL
+# IN A NUTSHELL
 
 The following are a medley of Ashin Tejaniya's reflections, ideas,
 suggestions, and mini-cases for consideration. They have been translated
@@ -3352,7 +3350,7 @@ You can't force the Dhamma to come to you. You need to be patient, but
 never forget the practice---that is what it means to help the Buddha's
 Dispensation (sasana).
 
-### DHAMMA IN THE MORNINGS I
+# DHAMMA IN THE MORNINGS I
 
 The following are translations of two of Ashin Tejaniya's morning Dhamma
 reminders given at the Shwe Oo Min Meditation Center. The talks have
@@ -3360,9 +3358,9 @@ been edited and organized into related sections.
 
 ------------------------------------------------------------------------
 
-#### DAY I
+## DAY I
 
-#### The Meditating Mind
+### The Meditating Mind
 
 Keep your mind as calm and as relaxed as possible, not too tense or too
 lax. Don't be too anxious about your practice. The mind needs to be able
@@ -3386,7 +3384,7 @@ or to focus in on something. Take the view that everything happening in
 the mind and body is happening according to nature. This is all dhamma
 nature at work.
 
-#### Curiosity And Interest
+### Curiosity And Interest
 
 Have the mindset that you will not desire experiences, including not
 wanting something to happen. You just do what needs to be done and let
@@ -3423,7 +3421,7 @@ Keep it simple! It's good if there is knowing; It's not good if there is
 no knowing. There is a Burmese saying: "Ignorance is worse than being
 deprived." But far worse than being ignorant is not wanting to know!
 
-#### Wait And Watch
+### Wait And Watch
 
 What is happening in the body? There are the six sense doors. Five
 involve the eyes, the ears, the nose, the tongue and the body. The sixth
@@ -3492,7 +3490,7 @@ nature; you just wait and watch this process objectively. If craving is
 absent, you will just see what is to be seen. There is nothing
 attractive about what is happening. There only needs to be knowing.
 
-#### Lobha Is Sticky Like Glue
+### Lobha Is Sticky Like Glue
 
 > *Lobha is always present. Lobha's nature is wanting or craving and its
 > nature is to exaggerate things. It is very sticky like glue; it
@@ -3517,7 +3515,7 @@ practicing as much as possible and you'll get that much back in return.
 Be contented with that. You will do as much as you can and be satisfied
 with what you get.
 
-#### Understanding The Noble Truth Of Dukkha
+### Understanding The Noble Truth Of Dukkha
 
 Vipassanā samādhi develops out of continuous awareness, along with right
 view and right attitude. Samādhi arises and there is peace when there is
@@ -3555,7 +3553,7 @@ The mind is devoid of craving and defilements. Whereas the experience of
 dukkha is exhausting, the true realization of dukkha is free from
 attachment and free of defilements.
 
-#### Wisdom Has No Preference
+### Wisdom Has No Preference
 
 As you continue to practice, observe when awareness is present and when
 awareness is absent, when wisdom is present and when wisdom is absent.
@@ -3612,7 +3610,7 @@ thing as "I know," because it is never enough. You start to see things
 from multiple angles: You see two sides, mundane world and ultimate
 reality, mind and object, cause and effect.
 
-#### This Practice Is For Always
+### This Practice Is For Always
 
 Remember that practice is not done only through sitting. It is not only
 when you sit to meditate that there is awareness. The awareness must be
@@ -3636,7 +3634,7 @@ much as you put in. Be satisfied with the sati and samādhi that develop.
 Finally, remember to practice consistently throughout the day, all the
 time, with a balanced mind and right effort.
 
-#### DAY II
+## DAY II
 
 The meditating mind must be a Dhamma mind. Be calm, comfortable and
 relaxed, with peace, faith, and intelligence. That is how you should be
@@ -3661,7 +3659,7 @@ must know is what is happening in the mind and body. Meditation is the
 practice of cultivating and developing the Dhamma that we don't already
 have, to come to know what we don't already know.
 
-#### Cultivating Wholesome Qualities
+### Cultivating Wholesome Qualities
 
 We meditate to develop the sati, samādhi, viriya, saddhā, and paññā that
 are not yet present in the mind. The stronger these five spiritual
@@ -3687,7 +3685,7 @@ see the object you wanted to see, that is the work of lobha.
 Dissatisfaction with getting an object other than what you want to see
 is dosa. These are both defilements!
 
-#### All Objects Are Dhamma Nature
+### All Objects Are Dhamma Nature
 
 All objects are dhamma nature, dhamma phenomena. You can't hold onto any
 object with lobha. Don't perceive any objects or experiences as good or
@@ -3705,7 +3703,7 @@ All are just phenomena or objects.
 > cultivate the five spiritual faculties of sati, samādhi, viriya,
 > saddhā, and paññā.*
 
-#### Enjoying The Practice
+### Enjoying The Practice
 
 Is it better to delight in a "good sitting" or better to have awareness?
 It is not about liking the results but about enjoying the practice
@@ -3717,7 +3715,7 @@ fulfilling the causes and conditions. If the causes are good, the
 effects will also be good. Let whatever is happening, happen but don't
 forget the knowing. Investigate and learn.
 
-#### Taste Of Dhamma
+### Taste Of Dhamma
 
 Naturally, if there are wholesome mental states, there will be peace. It
 is important that the meditating mind is a wholesome mind or working
@@ -3736,7 +3734,7 @@ sensations.
 You need to taste the full flavors of Dhamma: Of knowing, of awareness,
 and of understanding.
 
-### DHAMMA IN THE MORNINGS II
+# DHAMMA IN THE MORNINGS II
 
 The following are transcribed selections of Ashin Tejaniya's English
 morning Dhamma reminders recorded over a six-month period from October
@@ -3746,7 +3744,7 @@ discrete themes and eliminating some repetition in the text.
 
 ------------------------------------------------------------------------
 
-#### Mindfulness Meditation Is A Learning Process
+## Mindfulness Meditation Is A Learning Process
 
 Meditation is about cultivating the good qualities of mind. We are just
 trying to cultivate moment-to-moment, very simple. Don't forget what is
@@ -3764,7 +3762,7 @@ make anything disappear. We are not trying to create something. We are
 in the present moment, just staying in the present moment by being
 awake, knowing, and aware.
 
-#### Checking The Attitude
+## Checking The Attitude
 
 We check our attitude first before we meditate. What attitude, what
 background ideas do you have when you meditate?
@@ -3791,7 +3789,7 @@ experience. Whatever is happening is not your responsibility. Your
 responsibility is right attitude and checking if awareness is present or
 not and that it is moment-to-moment. Check, learn, and have interest.
 
-#### Interest In The Activity Of The Mind
+## Interest In The Activity Of The Mind
 
 If the mind doesn't want anything, it is peaceful and relaxed. Think
 about it as it is. Try to have interest in the activity of the mind. The
@@ -3868,7 +3866,7 @@ state of mind are you watching it with? What point of view are you
 looking at it with? When you are not expecting anything, when you don't
 want anything, at that time, understanding can arise.
 
-#### Understanding Objects As Objects
+## Understanding Objects As Objects
 
 > *Any object or experience that appears should not disturb your
 > practice. Objects are helping your awareness. You can use any object
@@ -3902,7 +3900,7 @@ everything, any experience in the present moment, there is only mind,
 objects, and awareness. We need to have the right attitude in the
 awareness. Nature is nature, feeling is just feeling.
 
-#### Are You Sure Awareness Is There?
+## Are You Sure Awareness Is There?
 
 The meaning of awareness is not forgetting. This means not forgetting to
 think the right way, not forgetting to be aware, not forgetting the
@@ -3937,7 +3935,7 @@ mind is stronger and stronger, the watching mind stronger and stronger,
 it is doing its job. Your responsibility is only to maintain awareness,
 moment-to- moment in a relaxed way and with interest.
 
-#### Don't Follow The Object
+## Don't Follow The Object
 
 You need to take care of awareness, not objects. If you are aware, some
 object is already there. You are cultivating awareness continuously. You
@@ -3985,7 +3983,7 @@ knowledge. We want to understand and know the real nature of experience.
 We want to understand. That's why we are learning and that's why we are
 watching.
 
-#### Vipassanā Samādhi
+## Vipassanā Samādhi
 
 Samādhi comes from right attitude, right idea, and right knowledge. You
 are not trying to do anything with craving. You are not trying to do
@@ -4013,7 +4011,7 @@ calm and peaceful, this is samādhi. If there is no lobha, this is
 samādhi. If there is no dosa, this is also samādhi. This is vipassanā
 samādhi.
 
-#### Expectations And Patience
+## Expectations And Patience
 
 For any experience that appears, check to see whether you have a
 reaction. Are you interested in being mindful? Are you interested in
@@ -4035,7 +4033,7 @@ anything. It is just recognizing what is happening. Don't complicate
 things in the present moment. Be simple and just know. If you don't have
 expectations (not wanting anything) the mind is already at peace.
 
-#### Being Present
+## Being Present
 
 Stay with the peace in the present moment. Just be in the present
 moment, stay in the present moment. The present moment is the only thing
@@ -4060,7 +4058,7 @@ the right way. Thinking is very powerful. If your thinking is
 reasonable, if your thinking is right, the mind is already calm, relaxed
 and peaceful.
 
-#### When The Mind Is Interested, Wisdom Is Working
+## When The Mind Is Interested, Wisdom Is Working
 
 Because of knowledge, because of wisdom, the mind is peaceful and stable
 already. So that's why there's no need to use too much focusing. Check
@@ -4099,7 +4097,7 @@ Sometimes you need to use the questions of what, why, and how. But the
 answer is not important. Interest is important. You only need interest.
 You can't and you don't want to get results immediately.
 
-#### The Benefits Of Awareness
+## The Benefits Of Awareness
 
 When you are aware continuously, how do you feel? In the present moment,
 now, do you want anything? Do you have expectations? What are you doing?
@@ -4142,7 +4140,7 @@ result if we don't do this? If we are not doing this, what is happening?
 We are cultivating and growing these good qualities of mind, moment-to-
 moment.
 
-#### On Right Effort And Energy
+## On Right Effort And Energy
 
 Check your energy and how much energy you use. You don't need too much
 energy to know something, to be aware. If there's an expectation or if
@@ -4163,7 +4161,7 @@ continue, try to be patient, try to be relaxed. Effort is doing what we
 should do and not doing what should not be done. Effort is also to try
 to reduce defilements. Making awareness continuous is also effort.
 
-#### On Right Practice
+## On Right Practice
 
 Sometimes we sit and stop meditating; to stop meditating is wrong
 meditation. Wrong attitude and wrong meditation is "stopping," meaning
@@ -4173,7 +4171,7 @@ idea, right attitude, right thinking, the mind immediately calms down,
 becomes peaceful. We stop the wrong practice, meaning we start the right
 practice.
 
-#### The Noble Eightfold Path
+## The Noble Eightfold Path
 
 We are practicing the Noble Eightfold Path. In this moment we can hear.
 The fact that we are aware that we are hearing is right view. We know
@@ -4189,7 +4187,7 @@ what is happening, this is right view and right thought.
 Being aware is right action. Then we have right effort, right awareness,
 and right samādhi. This is the Noble Eightfold Path.
 
-#### Five Spiritual Faculties (Indriya)
+## Five Spiritual Faculties (Indriya)
 
 Right effort is perseverance. Effort means being persistent, being
 patient, continuing again and again, and not giving up. This is the
@@ -4214,7 +4212,7 @@ present or not, wisdom is present or not, if you recognize clearly that
 wisdom is NOT present, this in itself is wisdom! This is also
 understanding.
 
-#### Craving
+## Craving
 
 Craving is very tricky; It's always pushing you. Whatever you think,
 whatever you say, whatever you do, craving is pushing you, motivating
@@ -4262,7 +4260,7 @@ Raga khayo Nibbāna, meaning if you don't have craving, this is Nibbāna.
 If craving disappears, this is liberation. We are suffering because we
 don't know and we want; because we don't know, lobha and dosa exist.
 
-#### Acceptance
+## Acceptance
 
 We are trying to think the right way; we are trying to be aware. We are
 not complaining about what is happening. We check our quality of
@@ -4277,7 +4275,7 @@ Whatever is happening is happening through cause and effect. They do
 their job, we do our job. What should we do? We just recognize what is
 happening. Everything is nature.
 
-#### Appreciate That The Mind Is Working
+## Appreciate That The Mind Is Working
 
 We don't appreciate what we are doing. We are always complaining or
 thinking about what is happening. Experience may be good or bad, right
@@ -4292,7 +4290,7 @@ is working. We need only to check the quality of awareness of the
 watching, meditating mind. Is the meditating mind working or not? Is the
 mind interested or not? Is it strong or not? Just check.
 
-#### Strengthening The Mind
+## Strengthening The Mind
 
 Your watching mind must be strong and purified, with less defilement. If
 your mind is ready, understanding arises. So take care of your mind,
@@ -4331,7 +4329,7 @@ understanding, we have less resistance and fewer reactions. Because of
 reactions, we suffer. Because of learning, we understand. With
 understanding comes confidence.
 
-#### Anicca, Dukkha, Anatta
+## Anicca, Dukkha, Anatta
 
 Nothing stays the same. Everything is always changing. Nature is
 happening because of conditioning. Because of conditions, objects are
@@ -4347,7 +4345,7 @@ that is happening; object is also happening, knowing is also happening,
 sensation is also happening, thinking is also happening. It's all new,
 new, new.
 
-#### Simple Experience, Deep Understanding
+## Simple Experience, Deep Understanding
 
 When you are aware of some sensation or some object, what do you
 understand about this object? Now, what do you understand? Do you
@@ -4373,14 +4371,14 @@ understanding are complete, this simple experience becomes very strange
 knowing experience and now we have right view, right understanding, our
 view is opposite---very strange \[extraordinary\].
 
-#### The Chance To Practice Mindfulness Meditation Is Very Rare
+## The Chance To Practice Mindfulness Meditation Is Very Rare
 
 To be aware of something sounds simple, but this technique is very
 difficult to practice. We can practice this way, with this technique
 when a Buddha arises. But if we have no Buddha, we can't practice. Truly
 practicing mindfulness meditation is very rare.
 
-#### Dhamma Is Everywhere
+## Dhamma Is Everywhere
 
 Because the mind is covered by defilements, we are unable to see dhamma
 or to understand nature as it is. What is the meaning of nature? It is
@@ -4401,7 +4399,7 @@ really is, the mind is free and free from defilements.
 > Dhamma is there all the time, everywhere.\
 > Is the mind ready to understand?*
 
-### GLOSSARY OF SELECTED PĀLI TERMS
+# GLOSSARY OF SELECTED PĀLI TERMS
 
 Ashin Tejaniya frequently uses key Pāli terms in Dhamma discussions and
 discourses. Below you will find some of the frequently used terms. This
