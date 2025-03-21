@@ -1,20 +1,8 @@
 ![](Images/cover_dhamma_everywhere%20copy.jpg)
 
-[]{#cover.xhtml}
-
-::: {style="text-align: center; padding: 0pt; margin: 0pt;"}
-<svg xmlns="http://www.w3.org/2000/svg" height="100%" preserveaspectratio="xMidYMid meet" version="1.1" viewbox="0 0 924 924" width="100%" xmlns:xlink="http://www.w3.org/1999/xlink">
-`<image width="924" height="924" xlink:href="../Images/cover_dhamma_everywhere copy.jpg">`{=html}`</image>`{=html}
-</svg>
-:::
-
-[]{#Section0001.xhtml}
-
 ## DHAMMA EVERYWHERE: WELCOMING EACH MOMENT WITH AWARENESS+WISDOM {#Section0001.xhtml_dhammaeverywhere:welcomingeachmomentwithawarenesswisdom style="text-align: center;"}
 
 **ASHIN TEJANIYA**
-
-[]{#Section0002.xhtml}
 
 DHAMMA EVERYWHERE: WELCOMING EACH MOMENT WITH AWARENESS+WISDOM Copyright
 © Ashin Tejaniya 2011 This is a gift of Dhamma and must not be sold. You
@@ -26,9 +14,7 @@ Kon Tala Paung Village\
 Mingaladon Township\
 PO 11022 Yangon, Myanmar\
 951--638--170, 951--720--591 For more Dhamma materials, please visit:
-www.sayadawutejaniya.org
-
-[]{#Section0003.xhtml}
+<www.sayadawutejaniya.org>
 
 > ::: {style="text-align: center;"}
 > ***Namo Tassa Bhagavato Arahato Sammā-Sambuddhassa***\
@@ -37,14 +23,12 @@ www.sayadawutejaniya.org
 > ::: {style="text-align: center;"}
 > *[*Homage to Him, the Blessed One, the Worthy
 > One,*]{style="font-style: normal;"}\
-> *
+>*
 > :::
 >
 > ::: {style="text-align: center;"}
 > [*the Perfectly Self-Enlightened One*]{style="font-style: normal;"}\
 > :::
-
-[]{#Section0004.xhtml}
 
 #### ACKNOWLEDGEMENTS {#Section0004.xhtml_acknowledgements}
 
@@ -60,8 +44,6 @@ Finally, I would like to thank everyone who has contributed to the
 completion of this book.
 
 Ashin Tejaniya
-
-[]{#Section0005.xhtml}
 
 #### DEAR READER {#Section0005.xhtml_dearreader}
 
@@ -108,8 +90,6 @@ Köchli, the publishing teams, and anyone unintentionally left off here!
 
 Laura Zan, Translator & Compiler
 
-[]{#Section0006.xhtml}
-
 #### A NOTE ON WORDS {#Section0006.xhtml_anoteonwords}
 
 We work within the limits of language and concepts to describe and give
@@ -145,8 +125,6 @@ Finally, in order not to have to decide on the use of "she" or "he" in
 describing yogis' experiences (as well as the use of "we" or "you" in
 the explanations), we have given a fair chance to each of these
 concepts.
-
-[]{#Section0008.xhtml}
 
 ### WHAT IS MINDFULNESS MEDITATION? {#Section0008.xhtml_whatismindfulnessmeditation}
 
@@ -1042,8 +1020,6 @@ consistently and continuously in the right way will momentum build and
 wisdom grow. You come to this center to practice as well as to learn how
 to be skillful so you may take this meditation home with you.
 
-[]{#Section0009.xhtml}
-
 ### DHAMMA INVESTIGATION IN PRACTICE {#Section0009.xhtml_dhammainvestigationinpractice}
 
 Ashin Tejaniya often refers to dhamma investigation or investigation of
@@ -1282,8 +1258,6 @@ much of this when the mind was agitated because things would have just
 gotten jumbled up. You need to be putting these skills to use as
 awareness strengthens and there's stability in the mind.
 
-[]{#Section0010.xhtml}
-
 ### RECAP: QUESTIONS FROM "WHAT IS MINDFULNESS MEDITATION?" {#Section0010.xhtml_recap:questionsfromwhatismindfulnessmeditation}
 
 - With what kind of mind are you being aware?
@@ -1310,8 +1284,6 @@ awareness strengthens and there's stability in the mind.
   kinds of attitudes are present?
 - How are you meditating? Are you practicing the right way? How do you
   continue with the practice?
-
-[]{#Section0011.xhtml}
 
 ### RIGHT ATTITUDE 101 {#Section0011.xhtml_rightattitude101}
 
@@ -1483,8 +1455,6 @@ entity, no person is behind this process. It is all nature.
 We meditate for ourselves. Please continue your Dhamma work with
 interest and respect.
 
-[]{#Section0012.xhtml}
-
 ### MINDFULNESS MEDITATION ESSENTIALS {#Section0012.xhtml_mindfulnessmeditationessentials}
 
 - The meditating mind is naturally relaxed, calm, and peaceful. Learn to
@@ -1560,8 +1530,6 @@ interest and respect.
 
 - Maintain awareness in the present moment---don't revisit the past or
   speculate on the future.
-
-[]{#Section0013.xhtml}
 
 ### FROM MOMENT TO MOMENTUM {#Section0013.xhtml_frommomenttomomentum}
 
@@ -1996,8 +1964,6 @@ is dhamma nature and what is unwholesome is also dhamma nature.
 > *We practice to have the right attitude, to understand dhamma nature,
 > and to extinguish defilements.*
 
-[]{#Section0014.xhtml}
-
 ### MORE QUESTIONS... {#Section0014.xhtml_morequestions}
 
 What is your attitude? Is it right or wrong? - Are you interested in the
@@ -2022,8 +1988,6 @@ Is there defilement present?
 
 What does the mind know? What is the mind doing? What ideas do you have
 about your practice?
-
-[]{#Section0015.xhtml}
 
 ### IN A NUTSHELL {#Section0015.xhtml_inanutshell}
 
@@ -3388,8 +3352,6 @@ You can't force the Dhamma to come to you. You need to be patient, but
 never forget the practice---that is what it means to help the Buddha's
 Dispensation (sasana).
 
-[]{#Section0016.xhtml}
-
 ### DHAMMA IN THE MORNINGS I {#Section0016.xhtml_dhammainthemorningsi}
 
 The following are translations of two of Ashin Tejaniya's morning Dhamma
@@ -3773,8 +3735,6 @@ sensations.
 
 You need to taste the full flavors of Dhamma: Of knowing, of awareness,
 and of understanding.
-
-[]{#Section0017.xhtml}
 
 ### DHAMMA IN THE MORNINGS II {#Section0017.xhtml_dhammainthemorningsii}
 
@@ -4441,8 +4401,6 @@ really is, the mind is free and free from defilements.
 > Dhamma is there all the time, everywhere.\
 > Is the mind ready to understand?*
 
-[]{#Section0018.xhtml}
-
 ### GLOSSARY OF SELECTED PĀLI TERMS {#Section0018.xhtml_glossaryofselectedpaliterms}
 
 Ashin Tejaniya frequently uses key Pāli terms in Dhamma discussions and
@@ -4677,5 +4635,3 @@ physically
 yoniso manasikāra\
 a) right attitude, right frame of mind, right attention\
 b) wise consideration
-
-[]{#Section0019.xhtml}
