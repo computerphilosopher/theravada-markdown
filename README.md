@@ -61,7 +61,12 @@ If you're viewing this repository from the GPT itself, you're already interactin
 
 ## 📂 Licensing & Usage
 
-All texts included are either public domain, released for free distribution, or explicitly authorized for non-commercial use.  
-Always check the individual file headers for author acknowledgments and re-use notes.
+This repository does **not** contain original content created by the maintainer.  
+All texts are sourced from publicly available Dhamma publications, many of which are distributed freely under non-commercial or public domain terms.
 
-> _May this archive assist all beings in realizing wisdom, freedom, and peace._ 🙏
+Please refer to the **individual file headers** for specific licensing terms, author credits, and reuse conditions.
+
+If you are a copyright holder and have any concerns, please contact the maintainer.
+No commercial use is intended. This archive exists solely for Dhamma study and machine-learning support.
+
+> _May all uses of this material honor the intent of its original authors and benefit all beings._
